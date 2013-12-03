@@ -1,6 +1,4 @@
-// lotto.cpp -- probability of winning
 #include <iostream>
-// Note: some implementations require double instead of long double
 long double probability(unsigned numbers, unsigned picks, unsigned megaTotal);
 int main()
 {
@@ -16,8 +14,6 @@ int main()
         cout << "Next two numbers (q to quit): ";
     }
     cout << "bye\n";
-    // cin.get();
-    // cin.get();
     return 0;
 }
 
