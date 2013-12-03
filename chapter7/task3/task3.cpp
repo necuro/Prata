@@ -12,7 +12,6 @@ struct box
 void printBox( box );
 void setBoxVolume( box* );
 
-using std::cin;
 using std::cout;
 using std::endl;
 
