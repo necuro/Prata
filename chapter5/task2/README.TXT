@@ -1,2 +1,23 @@
-Перепишите код из листинга 5.4 с использованием объекта array вместо  
-встроенного массива и типа long double вместо long long. Найдите значение 100! 
+#include <iostream>
+
+using std::cin;
+using std::cout;
+using std::endl;
+
+int main()
+{
+   cout << "Input value: ";
+   double val{};
+   double sum{};
+
+   cin >> val;
+   while ( val != 0 )
+   {
+      sum += val;
+      cout << "Sum: " << sum << endl;
+      cout << "Input value: ";
+      cin >> val;
+   }
+
+   return 0;
+}
