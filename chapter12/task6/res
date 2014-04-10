@@ -1,0 +1,3214 @@
+
+customers acceptes: 104
+customers served: 104
+turnaways: 0
+average queue size: 0.00
+sum_line: 0
+served: 104
+average wait time: 0.00 minutes
+Customers per hour: 1.00
+
+customers acceptes: 300
+customers served: 300
+turnaways: 0
+average queue size: 0.00
+sum_line: 4
+served: 300
+average wait time: 0.01 minutes
+Customers per hour: 2.00
+
+customers acceptes: 625
+customers served: 625
+turnaways: 0
+average queue size: 0.01
+sum_line: 38
+served: 625
+average wait time: 0.06 minutes
+Customers per hour: 3.00
+
+customers acceptes: 1005
+customers served: 1005
+turnaways: 0
+average queue size: 0.01
+sum_line: 67
+served: 1005
+average wait time: 0.07 minutes
+Customers per hour: 4.00
+
+customers acceptes: 1532
+customers served: 1532
+turnaways: 0
+average queue size: 0.02
+sum_line: 128
+served: 1532
+average wait time: 0.08 minutes
+Customers per hour: 5.00
+
+customers acceptes: 2113
+customers served: 2113
+turnaways: 0
+average queue size: 0.03
+sum_line: 191
+served: 2113
+average wait time: 0.09 minutes
+Customers per hour: 6.00
+
+customers acceptes: 2809
+customers served: 2809
+turnaways: 0
+average queue size: 0.05
+sum_line: 281
+served: 2809
+average wait time: 0.10 minutes
+Customers per hour: 7.00
+
+customers acceptes: 3552
+customers served: 3552
+turnaways: 0
+average queue size: 0.07
+sum_line: 401
+served: 3552
+average wait time: 0.11 minutes
+Customers per hour: 8.00
+
+customers acceptes: 4423
+customers served: 4423
+turnaways: 0
+average queue size: 0.10
+sum_line: 571
+served: 4423
+average wait time: 0.13 minutes
+Customers per hour: 9.00
+
+customers acceptes: 5416
+customers served: 5416
+turnaways: 0
+average queue size: 0.13
+sum_line: 783
+served: 5416
+average wait time: 0.14 minutes
+Customers per hour: 10.00
+
+customers acceptes: 6536
+customers served: 6536
+turnaways: 0
+average queue size: 0.18
+sum_line: 1052
+served: 6536
+average wait time: 0.16 minutes
+Customers per hour: 11.00
+
+customers acceptes: 7703
+customers served: 7703
+turnaways: 0
+average queue size: 0.22
+sum_line: 1333
+served: 7703
+average wait time: 0.17 minutes
+Customers per hour: 12.00
+
+customers acceptes: 9001
+customers served: 9001
+turnaways: 0
+average queue size: 0.28
+sum_line: 1652
+served: 9001
+average wait time: 0.18 minutes
+Customers per hour: 13.00
+
+customers acceptes: 10367
+customers served: 10367
+turnaways: 0
+average queue size: 0.34
+sum_line: 2057
+served: 10367
+average wait time: 0.20 minutes
+Customers per hour: 14.00
+
+customers acceptes: 11814
+customers served: 11814
+turnaways: 0
+average queue size: 0.41
+sum_line: 2487
+served: 11814
+average wait time: 0.21 minutes
+Customers per hour: 15.00
+
+customers acceptes: 13402
+customers served: 13402
+turnaways: 0
+average queue size: 0.50
+sum_line: 2988
+served: 13402
+average wait time: 0.22 minutes
+Customers per hour: 16.00
+
+customers acceptes: 15089
+customers served: 15089
+turnaways: 0
+average queue size: 0.60
+sum_line: 3586
+served: 15089
+average wait time: 0.24 minutes
+Customers per hour: 17.00
+
+customers acceptes: 16863
+customers served: 16863
+turnaways: 0
+average queue size: 0.70
+sum_line: 4191
+served: 16863
+average wait time: 0.25 minutes
+Customers per hour: 18.00
+
+customers acceptes: 18838
+customers served: 18838
+turnaways: 0
+average queue size: 0.83
+sum_line: 4961
+served: 18838
+average wait time: 0.26 minutes
+Customers per hour: 19.00
+
+customers acceptes: 20795
+customers served: 20795
+turnaways: 0
+average queue size: 0.95
+sum_line: 5686
+served: 20795
+average wait time: 0.27 minutes
+Customers per hour: 20.00
+
+customers acceptes: 22928
+customers served: 22928
+turnaways: 0
+average queue size: 1.08
+sum_line: 6503
+served: 22928
+average wait time: 0.28 minutes
+Customers per hour: 21.00
+
+customers acceptes: 25138
+customers served: 25138
+turnaways: 0
+average queue size: 1.25
+sum_line: 7472
+served: 25138
+average wait time: 0.30 minutes
+Customers per hour: 22.00
+
+customers acceptes: 27432
+customers served: 27431
+turnaways: 0
+average queue size: 1.40
+sum_line: 8415
+served: 27431
+average wait time: 0.31 minutes
+Customers per hour: 23.00
+
+customers acceptes: 29838
+customers served: 29837
+turnaways: 0
+average queue size: 1.57
+sum_line: 9416
+served: 29837
+average wait time: 0.32 minutes
+Customers per hour: 24.00
+
+customers acceptes: 32347
+customers served: 32346
+turnaways: 0
+average queue size: 1.75
+sum_line: 10479
+served: 32346
+average wait time: 0.32 minutes
+Customers per hour: 25.00
+
+customers acceptes: 34927
+customers served: 34926
+turnaways: 0
+average queue size: 1.94
+sum_line: 11643
+served: 34926
+average wait time: 0.33 minutes
+Customers per hour: 26.00
+
+customers acceptes: 37657
+customers served: 37656
+turnaways: 0
+average queue size: 2.15
+sum_line: 12923
+served: 37656
+average wait time: 0.34 minutes
+Customers per hour: 27.00
+
+customers acceptes: 40448
+customers served: 40447
+turnaways: 0
+average queue size: 2.37
+sum_line: 14232
+served: 40447
+average wait time: 0.35 minutes
+Customers per hour: 28.00
+
+customers acceptes: 43381
+customers served: 43380
+turnaways: 0
+average queue size: 2.62
+sum_line: 15729
+served: 43380
+average wait time: 0.36 minutes
+Customers per hour: 29.00
+
+customers acceptes: 46410
+customers served: 46409
+turnaways: 0
+average queue size: 2.88
+sum_line: 17295
+served: 46409
+average wait time: 0.37 minutes
+Customers per hour: 30.00
+
+customers acceptes: 49460
+customers served: 49459
+turnaways: 0
+average queue size: 3.14
+sum_line: 18869
+served: 49459
+average wait time: 0.38 minutes
+Customers per hour: 31.00
+
+customers acceptes: 52684
+customers served: 52683
+turnaways: 0
+average queue size: 3.44
+sum_line: 20660
+served: 52683
+average wait time: 0.39 minutes
+Customers per hour: 32.00
+
+customers acceptes: 55984
+customers served: 55983
+turnaways: 0
+average queue size: 3.74
+sum_line: 22457
+served: 55983
+average wait time: 0.40 minutes
+Customers per hour: 33.00
+
+customers acceptes: 59417
+customers served: 59415
+turnaways: 0
+average queue size: 4.06
+sum_line: 24372
+served: 59415
+average wait time: 0.41 minutes
+Customers per hour: 34.00
+
+customers acceptes: 62941
+customers served: 62938
+turnaways: 0
+average queue size: 4.40
+sum_line: 26398
+served: 62938
+average wait time: 0.42 minutes
+Customers per hour: 35.00
+
+customers acceptes: 66564
+customers served: 66561
+turnaways: 0
+average queue size: 4.74
+sum_line: 28422
+served: 66561
+average wait time: 0.43 minutes
+Customers per hour: 36.00
+
+customers acceptes: 70258
+customers served: 70255
+turnaways: 0
+average queue size: 5.11
+sum_line: 30660
+served: 70255
+average wait time: 0.44 minutes
+Customers per hour: 37.00
+
+customers acceptes: 74052
+customers served: 74049
+turnaways: 0
+average queue size: 5.51
+sum_line: 33044
+served: 74049
+average wait time: 0.45 minutes
+Customers per hour: 38.00
+
+customers acceptes: 77946
+customers served: 77942
+turnaways: 0
+average queue size: 5.91
+sum_line: 35488
+served: 77942
+average wait time: 0.46 minutes
+Customers per hour: 39.00
+
+customers acceptes: 81946
+customers served: 81941
+turnaways: 0
+average queue size: 6.33
+sum_line: 37970
+served: 81941
+average wait time: 0.46 minutes
+Customers per hour: 40.00
+
+customers acceptes: 86015
+customers served: 86008
+turnaways: 0
+average queue size: 6.79
+sum_line: 40746
+served: 86008
+average wait time: 0.47 minutes
+Customers per hour: 41.00
+
+customers acceptes: 90221
+customers served: 90213
+turnaways: 0
+average queue size: 7.26
+sum_line: 43551
+served: 90213
+average wait time: 0.48 minutes
+Customers per hour: 42.00
+
+customers acceptes: 94568
+customers served: 94559
+turnaways: 0
+average queue size: 7.75
+sum_line: 46514
+served: 94559
+average wait time: 0.49 minutes
+Customers per hour: 43.00
+
+customers acceptes: 98936
+customers served: 98927
+turnaways: 0
+average queue size: 8.30
+sum_line: 49824
+served: 98927
+average wait time: 0.50 minutes
+Customers per hour: 44.00
+
+customers acceptes: 103361
+customers served: 103351
+turnaways: 0
+average queue size: 8.85
+sum_line: 53079
+served: 103351
+average wait time: 0.51 minutes
+Customers per hour: 45.00
+
+customers acceptes: 107965
+customers served: 107955
+turnaways: 0
+average queue size: 9.45
+sum_line: 56693
+served: 107955
+average wait time: 0.53 minutes
+Customers per hour: 46.00
+
+customers acceptes: 112668
+customers served: 112657
+turnaways: 0
+average queue size: 10.10
+sum_line: 60570
+served: 112657
+average wait time: 0.54 minutes
+Customers per hour: 47.00
+
+customers acceptes: 117459
+customers served: 117447
+turnaways: 0
+average queue size: 10.80
+sum_line: 64787
+served: 117447
+average wait time: 0.55 minutes
+Customers per hour: 48.00
+
+customers acceptes: 122344
+customers served: 122331
+turnaways: 0
+average queue size: 11.52
+sum_line: 69134
+served: 122331
+average wait time: 0.56 minutes
+Customers per hour: 49.00
+
+customers acceptes: 127277
+customers served: 127261
+turnaways: 0
+average queue size: 12.28
+sum_line: 73667
+served: 127261
+average wait time: 0.58 minutes
+Customers per hour: 50.00
+
+customers acceptes: 132389
+customers served: 132373
+turnaways: 0
+average queue size: 13.26
+sum_line: 79571
+served: 132373
+average wait time: 0.60 minutes
+Customers per hour: 51.00
+
+customers acceptes: 137590
+customers served: 137573
+turnaways: 0
+average queue size: 14.16
+sum_line: 84976
+served: 137573
+average wait time: 0.62 minutes
+Customers per hour: 52.00
+
+customers acceptes: 142858
+customers served: 142840
+turnaways: 0
+average queue size: 15.16
+sum_line: 90980
+served: 142840
+average wait time: 0.64 minutes
+Customers per hour: 53.00
+
+customers acceptes: 148256
+customers served: 148237
+turnaways: 0
+average queue size: 16.29
+sum_line: 97763
+served: 148237
+average wait time: 0.66 minutes
+Customers per hour: 54.00
+
+customers acceptes: 153760
+customers served: 153740
+turnaways: 0
+average queue size: 17.82
+sum_line: 106950
+served: 153740
+average wait time: 0.70 minutes
+Customers per hour: 55.00
+
+customers acceptes: 159371
+customers served: 159350
+turnaways: 0
+average queue size: 19.74
+sum_line: 118438
+served: 159350
+average wait time: 0.74 minutes
+Customers per hour: 56.00
+
+customers acceptes: 165054
+customers served: 165031
+turnaways: 0
+average queue size: 21.44
+sum_line: 128614
+served: 165031
+average wait time: 0.78 minutes
+Customers per hour: 57.00
+
+customers acceptes: 170835
+customers served: 170811
+turnaways: 0
+average queue size: 24.65
+sum_line: 147900
+served: 170811
+average wait time: 0.87 minutes
+Customers per hour: 58.00
+
+customers acceptes: 176729
+customers served: 176700
+turnaways: 12
+average queue size: 32.15
+sum_line: 192897
+served: 176700
+average wait time: 1.09 minutes
+Customers per hour: 59.00
+
+customers acceptes: 89
+customers served: 89
+turnaways: 0
+average queue size: 0.00
+sum_line: 3
+served: 89
+average wait time: 0.03 minutes
+Customers per hour: 1.00
+
+customers acceptes: 285
+customers served: 285
+turnaways: 0
+average queue size: 0.00
+sum_line: 9
+served: 285
+average wait time: 0.03 minutes
+Customers per hour: 2.00
+
+customers acceptes: 575
+customers served: 575
+turnaways: 0
+average queue size: 0.01
+sum_line: 30
+served: 575
+average wait time: 0.05 minutes
+Customers per hour: 3.00
+
+customers acceptes: 939
+customers served: 939
+turnaways: 0
+average queue size: 0.01
+sum_line: 54
+served: 939
+average wait time: 0.06 minutes
+Customers per hour: 4.00
+
+customers acceptes: 1424
+customers served: 1424
+turnaways: 0
+average queue size: 0.02
+sum_line: 111
+served: 1424
+average wait time: 0.08 minutes
+Customers per hour: 5.00
+
+customers acceptes: 1980
+customers served: 1980
+turnaways: 0
+average queue size: 0.03
+sum_line: 181
+served: 1980
+average wait time: 0.09 minutes
+Customers per hour: 6.00
+
+customers acceptes: 2676
+customers served: 2676
+turnaways: 0
+average queue size: 0.05
+sum_line: 280
+served: 2676
+average wait time: 0.10 minutes
+Customers per hour: 7.00
+
+customers acceptes: 3450
+customers served: 3450
+turnaways: 0
+average queue size: 0.07
+sum_line: 398
+served: 3450
+average wait time: 0.12 minutes
+Customers per hour: 8.00
+
+customers acceptes: 4286
+customers served: 4286
+turnaways: 0
+average queue size: 0.09
+sum_line: 563
+served: 4286
+average wait time: 0.13 minutes
+Customers per hour: 9.00
+
+customers acceptes: 5279
+customers served: 5279
+turnaways: 0
+average queue size: 0.13
+sum_line: 786
+served: 5279
+average wait time: 0.15 minutes
+Customers per hour: 10.00
+
+customers acceptes: 6402
+customers served: 6402
+turnaways: 0
+average queue size: 0.17
+sum_line: 1032
+served: 6402
+average wait time: 0.16 minutes
+Customers per hour: 11.00
+
+customers acceptes: 7525
+customers served: 7525
+turnaways: 0
+average queue size: 0.21
+sum_line: 1275
+served: 7525
+average wait time: 0.17 minutes
+Customers per hour: 12.00
+
+customers acceptes: 8880
+customers served: 8880
+turnaways: 0
+average queue size: 0.27
+sum_line: 1605
+served: 8880
+average wait time: 0.18 minutes
+Customers per hour: 13.00
+
+customers acceptes: 10288
+customers served: 10288
+turnaways: 0
+average queue size: 0.33
+sum_line: 1982
+served: 10288
+average wait time: 0.19 minutes
+Customers per hour: 14.00
+
+customers acceptes: 11820
+customers served: 11819
+turnaways: 0
+average queue size: 0.40
+sum_line: 2408
+served: 11819
+average wait time: 0.20 minutes
+Customers per hour: 15.00
+
+customers acceptes: 13404
+customers served: 13402
+turnaways: 0
+average queue size: 0.48
+sum_line: 2866
+served: 13402
+average wait time: 0.21 minutes
+Customers per hour: 16.00
+
+customers acceptes: 15113
+customers served: 15111
+turnaways: 0
+average queue size: 0.57
+sum_line: 3408
+served: 15111
+average wait time: 0.23 minutes
+Customers per hour: 17.00
+
+customers acceptes: 16961
+customers served: 16959
+turnaways: 0
+average queue size: 0.67
+sum_line: 4027
+served: 16959
+average wait time: 0.24 minutes
+Customers per hour: 18.00
+
+customers acceptes: 18881
+customers served: 18879
+turnaways: 0
+average queue size: 0.78
+sum_line: 4689
+served: 18879
+average wait time: 0.25 minutes
+Customers per hour: 19.00
+
+customers acceptes: 20823
+customers served: 20821
+turnaways: 0
+average queue size: 0.90
+sum_line: 5414
+served: 20821
+average wait time: 0.26 minutes
+Customers per hour: 20.00
+
+customers acceptes: 22883
+customers served: 22881
+turnaways: 0
+average queue size: 1.03
+sum_line: 6185
+served: 22881
+average wait time: 0.27 minutes
+Customers per hour: 21.00
+
+customers acceptes: 25032
+customers served: 25030
+turnaways: 0
+average queue size: 1.18
+sum_line: 7102
+served: 25030
+average wait time: 0.28 minutes
+Customers per hour: 22.00
+
+customers acceptes: 27350
+customers served: 27348
+turnaways: 0
+average queue size: 1.34
+sum_line: 8062
+served: 27348
+average wait time: 0.29 minutes
+Customers per hour: 23.00
+
+customers acceptes: 29804
+customers served: 29802
+turnaways: 0
+average queue size: 1.52
+sum_line: 9129
+served: 29802
+average wait time: 0.31 minutes
+Customers per hour: 24.00
+
+customers acceptes: 32240
+customers served: 32238
+turnaways: 0
+average queue size: 1.70
+sum_line: 10209
+served: 32238
+average wait time: 0.32 minutes
+Customers per hour: 25.00
+
+customers acceptes: 34775
+customers served: 34773
+turnaways: 0
+average queue size: 1.88
+sum_line: 11301
+served: 34773
+average wait time: 0.32 minutes
+Customers per hour: 26.00
+
+customers acceptes: 37473
+customers served: 37471
+turnaways: 0
+average queue size: 2.10
+sum_line: 12583
+served: 37471
+average wait time: 0.34 minutes
+Customers per hour: 27.00
+
+customers acceptes: 40289
+customers served: 40286
+turnaways: 0
+average queue size: 2.32
+sum_line: 13929
+served: 40286
+average wait time: 0.35 minutes
+Customers per hour: 28.00
+
+customers acceptes: 43191
+customers served: 43187
+turnaways: 0
+average queue size: 2.56
+sum_line: 15368
+served: 43187
+average wait time: 0.36 minutes
+Customers per hour: 29.00
+
+customers acceptes: 46213
+customers served: 46209
+turnaways: 0
+average queue size: 2.83
+sum_line: 16954
+served: 46209
+average wait time: 0.37 minutes
+Customers per hour: 30.00
+
+customers acceptes: 49315
+customers served: 49311
+turnaways: 0
+average queue size: 3.09
+sum_line: 18551
+served: 49311
+average wait time: 0.38 minutes
+Customers per hour: 31.00
+
+customers acceptes: 52511
+customers served: 52507
+turnaways: 0
+average queue size: 3.38
+sum_line: 20278
+served: 52507
+average wait time: 0.39 minutes
+Customers per hour: 32.00
+
+customers acceptes: 55870
+customers served: 55866
+turnaways: 0
+average queue size: 3.69
+sum_line: 22140
+served: 55866
+average wait time: 0.40 minutes
+Customers per hour: 33.00
+
+customers acceptes: 59189
+customers served: 59184
+turnaways: 0
+average queue size: 3.98
+sum_line: 23855
+served: 59184
+average wait time: 0.40 minutes
+Customers per hour: 34.00
+
+customers acceptes: 62657
+customers served: 62652
+turnaways: 0
+average queue size: 4.31
+sum_line: 25848
+served: 62652
+average wait time: 0.41 minutes
+Customers per hour: 35.00
+
+customers acceptes: 66238
+customers served: 66232
+turnaways: 0
+average queue size: 4.66
+sum_line: 27952
+served: 66232
+average wait time: 0.42 minutes
+Customers per hour: 36.00
+
+customers acceptes: 69926
+customers served: 69920
+turnaways: 0
+average queue size: 5.03
+sum_line: 30201
+served: 69920
+average wait time: 0.43 minutes
+Customers per hour: 37.00
+
+customers acceptes: 73765
+customers served: 73758
+turnaways: 0
+average queue size: 5.43
+sum_line: 32560
+served: 73758
+average wait time: 0.44 minutes
+Customers per hour: 38.00
+
+customers acceptes: 77659
+customers served: 77651
+turnaways: 0
+average queue size: 5.84
+sum_line: 35031
+served: 77651
+average wait time: 0.45 minutes
+Customers per hour: 39.00
+
+customers acceptes: 81666
+customers served: 81658
+turnaways: 0
+average queue size: 6.27
+sum_line: 37620
+served: 81658
+average wait time: 0.46 minutes
+Customers per hour: 40.00
+
+customers acceptes: 85738
+customers served: 85730
+turnaways: 0
+average queue size: 6.72
+sum_line: 40315
+served: 85730
+average wait time: 0.47 minutes
+Customers per hour: 41.00
+
+customers acceptes: 89924
+customers served: 89916
+turnaways: 0
+average queue size: 7.18
+sum_line: 43095
+served: 89916
+average wait time: 0.48 minutes
+Customers per hour: 42.00
+
+customers acceptes: 94240
+customers served: 94232
+turnaways: 0
+average queue size: 7.70
+sum_line: 46209
+served: 94232
+average wait time: 0.49 minutes
+Customers per hour: 43.00
+
+customers acceptes: 98655
+customers served: 98646
+turnaways: 0
+average queue size: 8.23
+sum_line: 49374
+served: 98646
+average wait time: 0.50 minutes
+Customers per hour: 44.00
+
+customers acceptes: 103198
+customers served: 103188
+turnaways: 0
+average queue size: 8.84
+sum_line: 53023
+served: 103188
+average wait time: 0.51 minutes
+Customers per hour: 45.00
+
+customers acceptes: 107726
+customers served: 107715
+turnaways: 0
+average queue size: 9.40
+sum_line: 56419
+served: 107715
+average wait time: 0.52 minutes
+Customers per hour: 46.00
+
+customers acceptes: 112421
+customers served: 112408
+turnaways: 0
+average queue size: 10.04
+sum_line: 60222
+served: 112408
+average wait time: 0.54 minutes
+Customers per hour: 47.00
+
+customers acceptes: 117198
+customers served: 117185
+turnaways: 0
+average queue size: 10.68
+sum_line: 64072
+served: 117185
+average wait time: 0.55 minutes
+Customers per hour: 48.00
+
+customers acceptes: 122101
+customers served: 122088
+turnaways: 0
+average queue size: 11.38
+sum_line: 68280
+served: 122088
+average wait time: 0.56 minutes
+Customers per hour: 49.00
+
+customers acceptes: 127112
+customers served: 127097
+turnaways: 0
+average queue size: 12.14
+sum_line: 72837
+served: 127097
+average wait time: 0.57 minutes
+Customers per hour: 50.00
+
+customers acceptes: 132156
+customers served: 132140
+turnaways: 0
+average queue size: 12.96
+sum_line: 77784
+served: 132140
+average wait time: 0.59 minutes
+Customers per hour: 51.00
+
+customers acceptes: 137358
+customers served: 137340
+turnaways: 0
+average queue size: 13.93
+sum_line: 83593
+served: 137340
+average wait time: 0.61 minutes
+Customers per hour: 52.00
+
+customers acceptes: 142698
+customers served: 142679
+turnaways: 0
+average queue size: 15.05
+sum_line: 90302
+served: 142679
+average wait time: 0.63 minutes
+Customers per hour: 53.00
+
+customers acceptes: 148074
+customers served: 148055
+turnaways: 0
+average queue size: 16.34
+sum_line: 98044
+served: 148055
+average wait time: 0.66 minutes
+Customers per hour: 54.00
+
+customers acceptes: 153586
+customers served: 153565
+turnaways: 0
+average queue size: 17.83
+sum_line: 106956
+served: 153565
+average wait time: 0.70 minutes
+Customers per hour: 55.00
+
+customers acceptes: 159213
+customers served: 159189
+turnaways: 0
+average queue size: 19.45
+sum_line: 116686
+served: 159189
+average wait time: 0.73 minutes
+Customers per hour: 56.00
+
+customers acceptes: 164924
+customers served: 164896
+turnaways: 0
+average queue size: 21.76
+sum_line: 130539
+served: 164896
+average wait time: 0.79 minutes
+Customers per hour: 57.00
+
+customers acceptes: 170744
+customers served: 170715
+turnaways: 0
+average queue size: 24.50
+sum_line: 146971
+served: 170715
+average wait time: 0.86 minutes
+Customers per hour: 58.00
+
+customers acceptes: 176634
+customers served: 176598
+turnaways: 0
+average queue size: 26.66
+sum_line: 159986
+served: 176598
+average wait time: 0.91 minutes
+Customers per hour: 59.00
+
+customers acceptes: 182608
+customers served: 182554
+turnaways: 26
+average queue size: 35.37
+sum_line: 212206
+served: 182554
+average wait time: 1.16 minutes
+Customers per hour: 60.00
+
+customers acceptes: 93
+customers served: 93
+turnaways: 0
+average queue size: 0.00
+sum_line: 0
+served: 93
+average wait time: 0.00 minutes
+Customers per hour: 1.00
+
+customers acceptes: 285
+customers served: 285
+turnaways: 0
+average queue size: 0.00
+sum_line: 4
+served: 285
+average wait time: 0.01 minutes
+Customers per hour: 2.00
+
+customers acceptes: 600
+customers served: 600
+turnaways: 0
+average queue size: 0.00
+sum_line: 27
+served: 600
+average wait time: 0.04 minutes
+Customers per hour: 3.00
+
+customers acceptes: 1016
+customers served: 1016
+turnaways: 0
+average queue size: 0.01
+sum_line: 64
+served: 1016
+average wait time: 0.06 minutes
+Customers per hour: 4.00
+
+customers acceptes: 1502
+customers served: 1502
+turnaways: 0
+average queue size: 0.02
+sum_line: 128
+served: 1502
+average wait time: 0.09 minutes
+Customers per hour: 5.00
+
+customers acceptes: 2108
+customers served: 2108
+turnaways: 0
+average queue size: 0.04
+sum_line: 223
+served: 2108
+average wait time: 0.11 minutes
+Customers per hour: 6.00
+
+customers acceptes: 2805
+customers served: 2805
+turnaways: 0
+average queue size: 0.05
+sum_line: 328
+served: 2805
+average wait time: 0.12 minutes
+Customers per hour: 7.00
+
+customers acceptes: 3637
+customers served: 3637
+turnaways: 0
+average queue size: 0.08
+sum_line: 469
+served: 3637
+average wait time: 0.13 minutes
+Customers per hour: 8.00
+
+customers acceptes: 4540
+customers served: 4540
+turnaways: 0
+average queue size: 0.11
+sum_line: 646
+served: 4540
+average wait time: 0.14 minutes
+Customers per hour: 9.00
+
+customers acceptes: 5511
+customers served: 5510
+turnaways: 0
+average queue size: 0.14
+sum_line: 840
+served: 5510
+average wait time: 0.15 minutes
+Customers per hour: 10.00
+
+customers acceptes: 6604
+customers served: 6602
+turnaways: 0
+average queue size: 0.18
+sum_line: 1089
+served: 6602
+average wait time: 0.16 minutes
+Customers per hour: 11.00
+
+customers acceptes: 7779
+customers served: 7777
+turnaways: 0
+average queue size: 0.23
+sum_line: 1351
+served: 7777
+average wait time: 0.17 minutes
+Customers per hour: 12.00
+
+customers acceptes: 9080
+customers served: 9078
+turnaways: 0
+average queue size: 0.28
+sum_line: 1673
+served: 9078
+average wait time: 0.18 minutes
+Customers per hour: 13.00
+
+customers acceptes: 10464
+customers served: 10462
+turnaways: 0
+average queue size: 0.35
+sum_line: 2089
+served: 10462
+average wait time: 0.20 minutes
+Customers per hour: 14.00
+
+customers acceptes: 11953
+customers served: 11951
+turnaways: 0
+average queue size: 0.42
+sum_line: 2516
+served: 11951
+average wait time: 0.21 minutes
+Customers per hour: 15.00
+
+customers acceptes: 13565
+customers served: 13563
+turnaways: 0
+average queue size: 0.50
+sum_line: 3009
+served: 13563
+average wait time: 0.22 minutes
+Customers per hour: 16.00
+
+customers acceptes: 15234
+customers served: 15232
+turnaways: 0
+average queue size: 0.59
+sum_line: 3556
+served: 15232
+average wait time: 0.23 minutes
+Customers per hour: 17.00
+
+customers acceptes: 17056
+customers served: 17054
+turnaways: 0
+average queue size: 0.69
+sum_line: 4169
+served: 17054
+average wait time: 0.24 minutes
+Customers per hour: 18.00
+
+customers acceptes: 18937
+customers served: 18935
+turnaways: 0
+average queue size: 0.81
+sum_line: 4838
+served: 18935
+average wait time: 0.26 minutes
+Customers per hour: 19.00
+
+customers acceptes: 20949
+customers served: 20946
+turnaways: 0
+average queue size: 0.93
+sum_line: 5606
+served: 20946
+average wait time: 0.27 minutes
+Customers per hour: 20.00
+
+customers acceptes: 23021
+customers served: 23018
+turnaways: 0
+average queue size: 1.07
+sum_line: 6447
+served: 23018
+average wait time: 0.28 minutes
+Customers per hour: 21.00
+
+customers acceptes: 25289
+customers served: 25286
+turnaways: 0
+average queue size: 1.23
+sum_line: 7371
+served: 25286
+average wait time: 0.29 minutes
+Customers per hour: 22.00
+
+customers acceptes: 27569
+customers served: 27566
+turnaways: 0
+average queue size: 1.38
+sum_line: 8295
+served: 27566
+average wait time: 0.30 minutes
+Customers per hour: 23.00
+
+customers acceptes: 29924
+customers served: 29920
+turnaways: 0
+average queue size: 1.56
+sum_line: 9358
+served: 29920
+average wait time: 0.31 minutes
+Customers per hour: 24.00
+
+customers acceptes: 32397
+customers served: 32392
+turnaways: 0
+average queue size: 1.74
+sum_line: 10451
+served: 32392
+average wait time: 0.32 minutes
+Customers per hour: 25.00
+
+customers acceptes: 34997
+customers served: 34992
+turnaways: 0
+average queue size: 1.94
+sum_line: 11623
+served: 34992
+average wait time: 0.33 minutes
+Customers per hour: 26.00
+
+customers acceptes: 37697
+customers served: 37692
+turnaways: 0
+average queue size: 2.14
+sum_line: 12853
+served: 37692
+average wait time: 0.34 minutes
+Customers per hour: 27.00
+
+customers acceptes: 40556
+customers served: 40551
+turnaways: 0
+average queue size: 2.37
+sum_line: 14215
+served: 40551
+average wait time: 0.35 minutes
+Customers per hour: 28.00
+
+customers acceptes: 43429
+customers served: 43424
+turnaways: 0
+average queue size: 2.60
+sum_line: 15623
+served: 43424
+average wait time: 0.36 minutes
+Customers per hour: 29.00
+
+customers acceptes: 46399
+customers served: 46394
+turnaways: 0
+average queue size: 2.85
+sum_line: 17107
+served: 46394
+average wait time: 0.37 minutes
+Customers per hour: 30.00
+
+customers acceptes: 49494
+customers served: 49489
+turnaways: 0
+average queue size: 3.12
+sum_line: 18712
+served: 49489
+average wait time: 0.38 minutes
+Customers per hour: 31.00
+
+customers acceptes: 52683
+customers served: 52678
+turnaways: 0
+average queue size: 3.39
+sum_line: 20352
+served: 52678
+average wait time: 0.39 minutes
+Customers per hour: 32.00
+
+customers acceptes: 55925
+customers served: 55920
+turnaways: 0
+average queue size: 3.69
+sum_line: 22122
+served: 55920
+average wait time: 0.40 minutes
+Customers per hour: 33.00
+
+customers acceptes: 59355
+customers served: 59350
+turnaways: 0
+average queue size: 4.01
+sum_line: 24058
+served: 59350
+average wait time: 0.41 minutes
+Customers per hour: 34.00
+
+customers acceptes: 62853
+customers served: 62848
+turnaways: 0
+average queue size: 4.34
+sum_line: 26061
+served: 62848
+average wait time: 0.41 minutes
+Customers per hour: 35.00
+
+customers acceptes: 66418
+customers served: 66413
+turnaways: 0
+average queue size: 4.69
+sum_line: 28119
+served: 66413
+average wait time: 0.42 minutes
+Customers per hour: 36.00
+
+customers acceptes: 70134
+customers served: 70128
+turnaways: 0
+average queue size: 5.07
+sum_line: 30422
+served: 70128
+average wait time: 0.43 minutes
+Customers per hour: 37.00
+
+customers acceptes: 73947
+customers served: 73941
+turnaways: 0
+average queue size: 5.46
+sum_line: 32767
+served: 73941
+average wait time: 0.44 minutes
+Customers per hour: 38.00
+
+customers acceptes: 77862
+customers served: 77855
+turnaways: 0
+average queue size: 5.86
+sum_line: 35181
+served: 77855
+average wait time: 0.45 minutes
+Customers per hour: 39.00
+
+customers acceptes: 81918
+customers served: 81911
+turnaways: 0
+average queue size: 6.30
+sum_line: 37826
+served: 81911
+average wait time: 0.46 minutes
+Customers per hour: 40.00
+
+customers acceptes: 86049
+customers served: 86042
+turnaways: 0
+average queue size: 6.76
+sum_line: 40569
+served: 86042
+average wait time: 0.47 minutes
+Customers per hour: 41.00
+
+customers acceptes: 90287
+customers served: 90279
+turnaways: 0
+average queue size: 7.27
+sum_line: 43646
+served: 90279
+average wait time: 0.48 minutes
+Customers per hour: 42.00
+
+customers acceptes: 94629
+customers served: 94620
+turnaways: 0
+average queue size: 7.80
+sum_line: 46816
+served: 94620
+average wait time: 0.49 minutes
+Customers per hour: 43.00
+
+customers acceptes: 99040
+customers served: 99031
+turnaways: 0
+average queue size: 8.33
+sum_line: 50000
+served: 99031
+average wait time: 0.50 minutes
+Customers per hour: 44.00
+
+customers acceptes: 103549
+customers served: 103540
+turnaways: 0
+average queue size: 8.90
+sum_line: 53396
+served: 103540
+average wait time: 0.52 minutes
+Customers per hour: 45.00
+
+customers acceptes: 108154
+customers served: 108144
+turnaways: 0
+average queue size: 9.52
+sum_line: 57100
+served: 108144
+average wait time: 0.53 minutes
+Customers per hour: 46.00
+
+customers acceptes: 112833
+customers served: 112823
+turnaways: 0
+average queue size: 10.17
+sum_line: 60996
+served: 112823
+average wait time: 0.54 minutes
+Customers per hour: 47.00
+
+customers acceptes: 117637
+customers served: 117626
+turnaways: 0
+average queue size: 10.87
+sum_line: 65209
+served: 117626
+average wait time: 0.55 minutes
+Customers per hour: 48.00
+
+customers acceptes: 122466
+customers served: 122455
+turnaways: 0
+average queue size: 11.58
+sum_line: 69461
+served: 122455
+average wait time: 0.57 minutes
+Customers per hour: 49.00
+
+customers acceptes: 127492
+customers served: 127480
+turnaways: 0
+average queue size: 12.38
+sum_line: 74282
+served: 127480
+average wait time: 0.58 minutes
+Customers per hour: 50.00
+
+customers acceptes: 132617
+customers served: 132604
+turnaways: 0
+average queue size: 13.26
+sum_line: 79580
+served: 132604
+average wait time: 0.60 minutes
+Customers per hour: 51.00
+
+customers acceptes: 137800
+customers served: 137787
+turnaways: 0
+average queue size: 14.13
+sum_line: 84754
+served: 137787
+average wait time: 0.61 minutes
+Customers per hour: 52.00
+
+customers acceptes: 143080
+customers served: 143067
+turnaways: 0
+average queue size: 15.10
+sum_line: 90591
+served: 143067
+average wait time: 0.63 minutes
+Customers per hour: 53.00
+
+customers acceptes: 148497
+customers served: 148483
+turnaways: 0
+average queue size: 16.30
+sum_line: 97816
+served: 148483
+average wait time: 0.66 minutes
+Customers per hour: 54.00
+
+customers acceptes: 154035
+customers served: 154021
+turnaways: 0
+average queue size: 17.78
+sum_line: 106681
+served: 154021
+average wait time: 0.69 minutes
+Customers per hour: 55.00
+
+customers acceptes: 159648
+customers served: 159633
+turnaways: 0
+average queue size: 19.38
+sum_line: 116279
+served: 159633
+average wait time: 0.73 minutes
+Customers per hour: 56.00
+
+customers acceptes: 165364
+customers served: 165348
+turnaways: 0
+average queue size: 21.15
+sum_line: 126915
+served: 165348
+average wait time: 0.77 minutes
+Customers per hour: 57.00
+
+customers acceptes: 171184
+customers served: 171166
+turnaways: 0
+average queue size: 24.69
+sum_line: 148160
+served: 171166
+average wait time: 0.87 minutes
+Customers per hour: 58.00
+
+customers acceptes: 177076
+customers served: 177056
+turnaways: 3
+average queue size: 30.92
+sum_line: 185527
+served: 177056
+average wait time: 1.05 minutes
+Customers per hour: 59.00
+
+customers acceptes: 99
+customers served: 99
+turnaways: 0
+average queue size: 0.00
+sum_line: 3
+served: 99
+average wait time: 0.03 minutes
+Customers per hour: 1.00
+
+customers acceptes: 287
+customers served: 287
+turnaways: 0
+average queue size: 0.00
+sum_line: 9
+served: 287
+average wait time: 0.03 minutes
+Customers per hour: 2.00
+
+customers acceptes: 587
+customers served: 587
+turnaways: 0
+average queue size: 0.01
+sum_line: 31
+served: 587
+average wait time: 0.05 minutes
+Customers per hour: 3.00
+
+customers acceptes: 998
+customers served: 998
+turnaways: 0
+average queue size: 0.01
+sum_line: 71
+served: 998
+average wait time: 0.07 minutes
+Customers per hour: 4.00
+
+customers acceptes: 1506
+customers served: 1506
+turnaways: 0
+average queue size: 0.02
+sum_line: 123
+served: 1506
+average wait time: 0.08 minutes
+Customers per hour: 5.00
+
+customers acceptes: 2075
+customers served: 2075
+turnaways: 0
+average queue size: 0.03
+sum_line: 208
+served: 2075
+average wait time: 0.10 minutes
+Customers per hour: 6.00
+
+customers acceptes: 2738
+customers served: 2738
+turnaways: 0
+average queue size: 0.05
+sum_line: 306
+served: 2738
+average wait time: 0.11 minutes
+Customers per hour: 7.00
+
+customers acceptes: 3499
+customers served: 3499
+turnaways: 0
+average queue size: 0.07
+sum_line: 419
+served: 3499
+average wait time: 0.12 minutes
+Customers per hour: 8.00
+
+customers acceptes: 4420
+customers served: 4420
+turnaways: 0
+average queue size: 0.10
+sum_line: 583
+served: 4420
+average wait time: 0.13 minutes
+Customers per hour: 9.00
+
+customers acceptes: 5387
+customers served: 5387
+turnaways: 0
+average queue size: 0.13
+sum_line: 769
+served: 5387
+average wait time: 0.14 minutes
+Customers per hour: 10.00
+
+customers acceptes: 6459
+customers served: 6459
+turnaways: 0
+average queue size: 0.17
+sum_line: 1014
+served: 6459
+average wait time: 0.16 minutes
+Customers per hour: 11.00
+
+customers acceptes: 7633
+customers served: 7633
+turnaways: 0
+average queue size: 0.22
+sum_line: 1291
+served: 7633
+average wait time: 0.17 minutes
+Customers per hour: 12.00
+
+customers acceptes: 8938
+customers served: 8938
+turnaways: 0
+average queue size: 0.27
+sum_line: 1636
+served: 8938
+average wait time: 0.18 minutes
+Customers per hour: 13.00
+
+customers acceptes: 10336
+customers served: 10336
+turnaways: 0
+average queue size: 0.33
+sum_line: 1973
+served: 10336
+average wait time: 0.19 minutes
+Customers per hour: 14.00
+
+customers acceptes: 11841
+customers served: 11841
+turnaways: 0
+average queue size: 0.41
+sum_line: 2449
+served: 11841
+average wait time: 0.21 minutes
+Customers per hour: 15.00
+
+customers acceptes: 13380
+customers served: 13380
+turnaways: 0
+average queue size: 0.49
+sum_line: 2923
+served: 13380
+average wait time: 0.22 minutes
+Customers per hour: 16.00
+
+customers acceptes: 15058
+customers served: 15058
+turnaways: 0
+average queue size: 0.58
+sum_line: 3472
+served: 15058
+average wait time: 0.23 minutes
+Customers per hour: 17.00
+
+customers acceptes: 16842
+customers served: 16842
+turnaways: 0
+average queue size: 0.69
+sum_line: 4119
+served: 16842
+average wait time: 0.24 minutes
+Customers per hour: 18.00
+
+customers acceptes: 18767
+customers served: 18767
+turnaways: 0
+average queue size: 0.80
+sum_line: 4809
+served: 18767
+average wait time: 0.26 minutes
+Customers per hour: 19.00
+
+customers acceptes: 20785
+customers served: 20784
+turnaways: 0
+average queue size: 0.93
+sum_line: 5571
+served: 20784
+average wait time: 0.27 minutes
+Customers per hour: 20.00
+
+customers acceptes: 22912
+customers served: 22911
+turnaways: 0
+average queue size: 1.07
+sum_line: 6393
+served: 22911
+average wait time: 0.28 minutes
+Customers per hour: 21.00
+
+customers acceptes: 25111
+customers served: 25110
+turnaways: 0
+average queue size: 1.22
+sum_line: 7302
+served: 25110
+average wait time: 0.29 minutes
+Customers per hour: 22.00
+
+customers acceptes: 27433
+customers served: 27432
+turnaways: 0
+average queue size: 1.38
+sum_line: 8301
+served: 27432
+average wait time: 0.30 minutes
+Customers per hour: 23.00
+
+customers acceptes: 29788
+customers served: 29786
+turnaways: 0
+average queue size: 1.54
+sum_line: 9249
+served: 29786
+average wait time: 0.31 minutes
+Customers per hour: 24.00
+
+customers acceptes: 32255
+customers served: 32253
+turnaways: 0
+average queue size: 1.72
+sum_line: 10324
+served: 32253
+average wait time: 0.32 minutes
+Customers per hour: 25.00
+
+customers acceptes: 34878
+customers served: 34875
+turnaways: 0
+average queue size: 1.93
+sum_line: 11555
+served: 34875
+average wait time: 0.33 minutes
+Customers per hour: 26.00
+
+customers acceptes: 37661
+customers served: 37658
+turnaways: 0
+average queue size: 2.15
+sum_line: 12896
+served: 37658
+average wait time: 0.34 minutes
+Customers per hour: 27.00
+
+customers acceptes: 40416
+customers served: 40413
+turnaways: 0
+average queue size: 2.37
+sum_line: 14201
+served: 40413
+average wait time: 0.35 minutes
+Customers per hour: 28.00
+
+customers acceptes: 43359
+customers served: 43356
+turnaways: 0
+average queue size: 2.62
+sum_line: 15690
+served: 43356
+average wait time: 0.36 minutes
+Customers per hour: 29.00
+
+customers acceptes: 46307
+customers served: 46304
+turnaways: 0
+average queue size: 2.86
+sum_line: 17144
+served: 46304
+average wait time: 0.37 minutes
+Customers per hour: 30.00
+
+customers acceptes: 49528
+customers served: 49524
+turnaways: 0
+average queue size: 3.14
+sum_line: 18858
+served: 49524
+average wait time: 0.38 minutes
+Customers per hour: 31.00
+
+customers acceptes: 52789
+customers served: 52785
+turnaways: 0
+average queue size: 3.42
+sum_line: 20548
+served: 52785
+average wait time: 0.39 minutes
+Customers per hour: 32.00
+
+customers acceptes: 56080
+customers served: 56076
+turnaways: 0
+average queue size: 3.73
+sum_line: 22394
+served: 56076
+average wait time: 0.40 minutes
+Customers per hour: 33.00
+
+customers acceptes: 59442
+customers served: 59437
+turnaways: 0
+average queue size: 4.04
+sum_line: 24250
+served: 59437
+average wait time: 0.41 minutes
+Customers per hour: 34.00
+
+customers acceptes: 62876
+customers served: 62871
+turnaways: 0
+average queue size: 4.36
+sum_line: 26169
+served: 62871
+average wait time: 0.42 minutes
+Customers per hour: 35.00
+
+customers acceptes: 66506
+customers served: 66501
+turnaways: 0
+average queue size: 4.72
+sum_line: 28344
+served: 66501
+average wait time: 0.43 minutes
+Customers per hour: 36.00
+
+customers acceptes: 70158
+customers served: 70153
+turnaways: 0
+average queue size: 5.09
+sum_line: 30511
+served: 70153
+average wait time: 0.43 minutes
+Customers per hour: 37.00
+
+customers acceptes: 73978
+customers served: 73973
+turnaways: 0
+average queue size: 5.47
+sum_line: 32835
+served: 73973
+average wait time: 0.44 minutes
+Customers per hour: 38.00
+
+customers acceptes: 77893
+customers served: 77888
+turnaways: 0
+average queue size: 5.88
+sum_line: 35301
+served: 77888
+average wait time: 0.45 minutes
+Customers per hour: 39.00
+
+customers acceptes: 81857
+customers served: 81852
+turnaways: 0
+average queue size: 6.31
+sum_line: 37832
+served: 81852
+average wait time: 0.46 minutes
+Customers per hour: 40.00
+
+customers acceptes: 85984
+customers served: 85978
+turnaways: 0
+average queue size: 6.76
+sum_line: 40579
+served: 85978
+average wait time: 0.47 minutes
+Customers per hour: 41.00
+
+customers acceptes: 90179
+customers served: 90173
+turnaways: 0
+average queue size: 7.24
+sum_line: 43446
+served: 90173
+average wait time: 0.48 minutes
+Customers per hour: 42.00
+
+customers acceptes: 94505
+customers served: 94498
+turnaways: 0
+average queue size: 7.75
+sum_line: 46475
+served: 94498
+average wait time: 0.49 minutes
+Customers per hour: 43.00
+
+customers acceptes: 98917
+customers served: 98909
+turnaways: 0
+average queue size: 8.28
+sum_line: 49663
+served: 98909
+average wait time: 0.50 minutes
+Customers per hour: 44.00
+
+customers acceptes: 103464
+customers served: 103456
+turnaways: 0
+average queue size: 8.87
+sum_line: 53191
+served: 103456
+average wait time: 0.51 minutes
+Customers per hour: 45.00
+
+customers acceptes: 108031
+customers served: 108022
+turnaways: 0
+average queue size: 9.42
+sum_line: 56549
+served: 108022
+average wait time: 0.52 minutes
+Customers per hour: 46.00
+
+customers acceptes: 112706
+customers served: 112697
+turnaways: 0
+average queue size: 10.08
+sum_line: 60468
+served: 112697
+average wait time: 0.54 minutes
+Customers per hour: 47.00
+
+customers acceptes: 117479
+customers served: 117469
+turnaways: 0
+average queue size: 10.74
+sum_line: 64455
+served: 117469
+average wait time: 0.55 minutes
+Customers per hour: 48.00
+
+customers acceptes: 122395
+customers served: 122385
+turnaways: 0
+average queue size: 11.48
+sum_line: 68895
+served: 122385
+average wait time: 0.56 minutes
+Customers per hour: 49.00
+
+customers acceptes: 127389
+customers served: 127378
+turnaways: 0
+average queue size: 12.37
+sum_line: 74240
+served: 127378
+average wait time: 0.58 minutes
+Customers per hour: 50.00
+
+customers acceptes: 132490
+customers served: 132478
+turnaways: 0
+average queue size: 13.24
+sum_line: 79424
+served: 132478
+average wait time: 0.60 minutes
+Customers per hour: 51.00
+
+customers acceptes: 137683
+customers served: 137671
+turnaways: 0
+average queue size: 14.16
+sum_line: 84937
+served: 137671
+average wait time: 0.62 minutes
+Customers per hour: 52.00
+
+customers acceptes: 142965
+customers served: 142952
+turnaways: 0
+average queue size: 15.18
+sum_line: 91083
+served: 142952
+average wait time: 0.64 minutes
+Customers per hour: 53.00
+
+customers acceptes: 148377
+customers served: 148362
+turnaways: 0
+average queue size: 16.31
+sum_line: 97865
+served: 148362
+average wait time: 0.66 minutes
+Customers per hour: 54.00
+
+customers acceptes: 153900
+customers served: 153884
+turnaways: 0
+average queue size: 17.74
+sum_line: 106435
+served: 153884
+average wait time: 0.69 minutes
+Customers per hour: 55.00
+
+customers acceptes: 159515
+customers served: 159499
+turnaways: 0
+average queue size: 19.32
+sum_line: 115893
+served: 159499
+average wait time: 0.73 minutes
+Customers per hour: 56.00
+
+customers acceptes: 165225
+customers served: 165208
+turnaways: 0
+average queue size: 22.01
+sum_line: 132074
+served: 165208
+average wait time: 0.80 minutes
+Customers per hour: 57.00
+
+customers acceptes: 171024
+customers served: 171003
+turnaways: 0
+average queue size: 24.81
+sum_line: 148864
+served: 171003
+average wait time: 0.87 minutes
+Customers per hour: 58.00
+
+customers acceptes: 176897
+customers served: 176874
+turnaways: 7
+average queue size: 28.05
+sum_line: 168324
+served: 176874
+average wait time: 0.95 minutes
+Customers per hour: 59.00
+
+customers acceptes: 182844
+customers served: 182816
+turnaways: 60
+average queue size: 40.11
+sum_line: 240677
+served: 182816
+average wait time: 1.32 minutes
+Customers per hour: 60.00
+
+customers acceptes: 96
+customers served: 96
+turnaways: 0
+average queue size: 0.00
+sum_line: 4
+served: 96
+average wait time: 0.04 minutes
+Customers per hour: 1.00
+
+customers acceptes: 274
+customers served: 274
+turnaways: 0
+average queue size: 0.00
+sum_line: 10
+served: 274
+average wait time: 0.04 minutes
+Customers per hour: 2.00
+
+customers acceptes: 562
+customers served: 562
+turnaways: 0
+average queue size: 0.01
+sum_line: 39
+served: 562
+average wait time: 0.07 minutes
+Customers per hour: 3.00
+
+customers acceptes: 976
+customers served: 976
+turnaways: 0
+average queue size: 0.01
+sum_line: 84
+served: 976
+average wait time: 0.09 minutes
+Customers per hour: 4.00
+
+customers acceptes: 1486
+customers served: 1486
+turnaways: 0
+average queue size: 0.02
+sum_line: 149
+served: 1486
+average wait time: 0.10 minutes
+Customers per hour: 5.00
+
+customers acceptes: 2059
+customers served: 2059
+turnaways: 0
+average queue size: 0.03
+sum_line: 208
+served: 2059
+average wait time: 0.10 minutes
+Customers per hour: 6.00
+
+customers acceptes: 2743
+customers served: 2743
+turnaways: 0
+average queue size: 0.05
+sum_line: 303
+served: 2743
+average wait time: 0.11 minutes
+Customers per hour: 7.00
+
+customers acceptes: 3555
+customers served: 3555
+turnaways: 0
+average queue size: 0.07
+sum_line: 436
+served: 3555
+average wait time: 0.12 minutes
+Customers per hour: 8.00
+
+customers acceptes: 4456
+customers served: 4456
+turnaways: 0
+average queue size: 0.10
+sum_line: 598
+served: 4456
+average wait time: 0.13 minutes
+Customers per hour: 9.00
+
+customers acceptes: 5464
+customers served: 5464
+turnaways: 0
+average queue size: 0.13
+sum_line: 800
+served: 5464
+average wait time: 0.15 minutes
+Customers per hour: 10.00
+
+customers acceptes: 6624
+customers served: 6624
+turnaways: 0
+average queue size: 0.18
+sum_line: 1077
+served: 6624
+average wait time: 0.16 minutes
+Customers per hour: 11.00
+
+customers acceptes: 7823
+customers served: 7823
+turnaways: 0
+average queue size: 0.23
+sum_line: 1368
+served: 7823
+average wait time: 0.17 minutes
+Customers per hour: 12.00
+
+customers acceptes: 9079
+customers served: 9079
+turnaways: 0
+average queue size: 0.28
+sum_line: 1670
+served: 9079
+average wait time: 0.18 minutes
+Customers per hour: 13.00
+
+customers acceptes: 10517
+customers served: 10517
+turnaways: 0
+average queue size: 0.35
+sum_line: 2098
+served: 10517
+average wait time: 0.20 minutes
+Customers per hour: 14.00
+
+customers acceptes: 12082
+customers served: 12081
+turnaways: 0
+average queue size: 0.43
+sum_line: 2598
+served: 12081
+average wait time: 0.21 minutes
+Customers per hour: 15.00
+
+customers acceptes: 13692
+customers served: 13691
+turnaways: 0
+average queue size: 0.52
+sum_line: 3099
+served: 13691
+average wait time: 0.23 minutes
+Customers per hour: 16.00
+
+customers acceptes: 15402
+customers served: 15400
+turnaways: 0
+average queue size: 0.61
+sum_line: 3666
+served: 15400
+average wait time: 0.24 minutes
+Customers per hour: 17.00
+
+customers acceptes: 17249
+customers served: 17247
+turnaways: 0
+average queue size: 0.72
+sum_line: 4340
+served: 17247
+average wait time: 0.25 minutes
+Customers per hour: 18.00
+
+customers acceptes: 19155
+customers served: 19152
+turnaways: 0
+average queue size: 0.84
+sum_line: 5011
+served: 19152
+average wait time: 0.26 minutes
+Customers per hour: 19.00
+
+customers acceptes: 21184
+customers served: 21181
+turnaways: 0
+average queue size: 0.96
+sum_line: 5763
+served: 21181
+average wait time: 0.27 minutes
+Customers per hour: 20.00
+
+customers acceptes: 23231
+customers served: 23228
+turnaways: 0
+average queue size: 1.09
+sum_line: 6532
+served: 23228
+average wait time: 0.28 minutes
+Customers per hour: 21.00
+
+customers acceptes: 25405
+customers served: 25401
+turnaways: 0
+average queue size: 1.23
+sum_line: 7374
+served: 25401
+average wait time: 0.29 minutes
+Customers per hour: 22.00
+
+customers acceptes: 27758
+customers served: 27754
+turnaways: 0
+average queue size: 1.40
+sum_line: 8385
+served: 27754
+average wait time: 0.30 minutes
+Customers per hour: 23.00
+
+customers acceptes: 30165
+customers served: 30161
+turnaways: 0
+average queue size: 1.57
+sum_line: 9421
+served: 30161
+average wait time: 0.31 minutes
+Customers per hour: 24.00
+
+customers acceptes: 32659
+customers served: 32655
+turnaways: 0
+average queue size: 1.76
+sum_line: 10575
+served: 32655
+average wait time: 0.32 minutes
+Customers per hour: 25.00
+
+customers acceptes: 35198
+customers served: 35194
+turnaways: 0
+average queue size: 1.95
+sum_line: 11717
+served: 35194
+average wait time: 0.33 minutes
+Customers per hour: 26.00
+
+customers acceptes: 37862
+customers served: 37858
+turnaways: 0
+average queue size: 2.16
+sum_line: 12955
+served: 37858
+average wait time: 0.34 minutes
+Customers per hour: 27.00
+
+customers acceptes: 40689
+customers served: 40685
+turnaways: 0
+average queue size: 2.39
+sum_line: 14357
+served: 40685
+average wait time: 0.35 minutes
+Customers per hour: 28.00
+
+customers acceptes: 43625
+customers served: 43621
+turnaways: 0
+average queue size: 2.64
+sum_line: 15827
+served: 43621
+average wait time: 0.36 minutes
+Customers per hour: 29.00
+
+customers acceptes: 46666
+customers served: 46662
+turnaways: 0
+average queue size: 2.90
+sum_line: 17392
+served: 46662
+average wait time: 0.37 minutes
+Customers per hour: 30.00
+
+customers acceptes: 49738
+customers served: 49734
+turnaways: 0
+average queue size: 3.17
+sum_line: 19004
+served: 49734
+average wait time: 0.38 minutes
+Customers per hour: 31.00
+
+customers acceptes: 52923
+customers served: 52919
+turnaways: 0
+average queue size: 3.45
+sum_line: 20674
+served: 52919
+average wait time: 0.39 minutes
+Customers per hour: 32.00
+
+customers acceptes: 56270
+customers served: 56266
+turnaways: 0
+average queue size: 3.76
+sum_line: 22539
+served: 56266
+average wait time: 0.40 minutes
+Customers per hour: 33.00
+
+customers acceptes: 59626
+customers served: 59622
+turnaways: 0
+average queue size: 4.06
+sum_line: 24352
+served: 59622
+average wait time: 0.41 minutes
+Customers per hour: 34.00
+
+customers acceptes: 63135
+customers served: 63131
+turnaways: 0
+average queue size: 4.42
+sum_line: 26500
+served: 63131
+average wait time: 0.42 minutes
+Customers per hour: 35.00
+
+customers acceptes: 66717
+customers served: 66713
+turnaways: 0
+average queue size: 4.79
+sum_line: 28724
+served: 66713
+average wait time: 0.43 minutes
+Customers per hour: 36.00
+
+customers acceptes: 70400
+customers served: 70395
+turnaways: 0
+average queue size: 5.14
+sum_line: 30828
+served: 70395
+average wait time: 0.44 minutes
+Customers per hour: 37.00
+
+customers acceptes: 74152
+customers served: 74146
+turnaways: 0
+average queue size: 5.51
+sum_line: 33070
+served: 74146
+average wait time: 0.45 minutes
+Customers per hour: 38.00
+
+customers acceptes: 77983
+customers served: 77976
+turnaways: 0
+average queue size: 5.89
+sum_line: 35369
+served: 77976
+average wait time: 0.45 minutes
+Customers per hour: 39.00
+
+customers acceptes: 81960
+customers served: 81952
+turnaways: 0
+average queue size: 6.32
+sum_line: 37911
+served: 81952
+average wait time: 0.46 minutes
+Customers per hour: 40.00
+
+customers acceptes: 86024
+customers served: 86015
+turnaways: 0
+average queue size: 6.77
+sum_line: 40630
+served: 86015
+average wait time: 0.47 minutes
+Customers per hour: 41.00
+
+customers acceptes: 90191
+customers served: 90182
+turnaways: 0
+average queue size: 7.23
+sum_line: 43355
+served: 90182
+average wait time: 0.48 minutes
+Customers per hour: 42.00
+
+customers acceptes: 94541
+customers served: 94531
+turnaways: 0
+average queue size: 7.77
+sum_line: 46621
+served: 94531
+average wait time: 0.49 minutes
+Customers per hour: 43.00
+
+customers acceptes: 98890
+customers served: 98880
+turnaways: 0
+average queue size: 8.31
+sum_line: 49874
+served: 98880
+average wait time: 0.50 minutes
+Customers per hour: 44.00
+
+customers acceptes: 103363
+customers served: 103352
+turnaways: 0
+average queue size: 8.86
+sum_line: 53172
+served: 103352
+average wait time: 0.51 minutes
+Customers per hour: 45.00
+
+customers acceptes: 108020
+customers served: 108008
+turnaways: 0
+average queue size: 9.55
+sum_line: 57273
+served: 108008
+average wait time: 0.53 minutes
+Customers per hour: 46.00
+
+customers acceptes: 112755
+customers served: 112743
+turnaways: 0
+average queue size: 10.16
+sum_line: 60989
+served: 112743
+average wait time: 0.54 minutes
+Customers per hour: 47.00
+
+customers acceptes: 117556
+customers served: 117543
+turnaways: 0
+average queue size: 10.87
+sum_line: 65199
+served: 117543
+average wait time: 0.55 minutes
+Customers per hour: 48.00
+
+customers acceptes: 122421
+customers served: 122407
+turnaways: 0
+average queue size: 11.60
+sum_line: 69625
+served: 122407
+average wait time: 0.57 minutes
+Customers per hour: 49.00
+
+customers acceptes: 127405
+customers served: 127389
+turnaways: 0
+average queue size: 12.38
+sum_line: 74275
+served: 127389
+average wait time: 0.58 minutes
+Customers per hour: 50.00
+
+customers acceptes: 132533
+customers served: 132517
+turnaways: 0
+average queue size: 13.26
+sum_line: 79588
+served: 132517
+average wait time: 0.60 minutes
+Customers per hour: 51.00
+
+customers acceptes: 137783
+customers served: 137767
+turnaways: 0
+average queue size: 14.36
+sum_line: 86171
+served: 137767
+average wait time: 0.63 minutes
+Customers per hour: 52.00
+
+customers acceptes: 143098
+customers served: 143081
+turnaways: 0
+average queue size: 15.51
+sum_line: 93051
+served: 143081
+average wait time: 0.65 minutes
+Customers per hour: 53.00
+
+customers acceptes: 148478
+customers served: 148460
+turnaways: 0
+average queue size: 16.61
+sum_line: 99674
+served: 148460
+average wait time: 0.67 minutes
+Customers per hour: 54.00
+
+customers acceptes: 153956
+customers served: 153933
+turnaways: 0
+average queue size: 18.22
+sum_line: 109310
+served: 153933
+average wait time: 0.71 minutes
+Customers per hour: 55.00
+
+customers acceptes: 159571
+customers served: 159547
+turnaways: 0
+average queue size: 19.86
+sum_line: 119144
+served: 159547
+average wait time: 0.75 minutes
+Customers per hour: 56.00
+
+customers acceptes: 165280
+customers served: 165252
+turnaways: 0
+average queue size: 21.77
+sum_line: 130618
+served: 165252
+average wait time: 0.79 minutes
+Customers per hour: 57.00
+
+customers acceptes: 171067
+customers served: 171039
+turnaways: 0
+average queue size: 24.07
+sum_line: 144392
+served: 171039
+average wait time: 0.84 minutes
+Customers per hour: 58.00
+
+customers acceptes: 176967
+customers served: 176930
+turnaways: 3
+average queue size: 28.92
+sum_line: 173507
+served: 176930
+average wait time: 0.98 minutes
+Customers per hour: 59.00
+
+customers acceptes: 182960
+customers served: 182914
+turnaways: 10
+average queue size: 37.93
+sum_line: 227575
+served: 182914
+average wait time: 1.24 minutes
+Customers per hour: 60.00
+
+customers acceptes: 106
+customers served: 106
+turnaways: 0
+average queue size: 0.00
+sum_line: 0
+served: 106
+average wait time: 0.00 minutes
+Customers per hour: 1.00
+
+customers acceptes: 312
+customers served: 312
+turnaways: 0
+average queue size: 0.00
+sum_line: 10
+served: 312
+average wait time: 0.03 minutes
+Customers per hour: 2.00
+
+customers acceptes: 646
+customers served: 646
+turnaways: 0
+average queue size: 0.01
+sum_line: 37
+served: 646
+average wait time: 0.06 minutes
+Customers per hour: 3.00
+
+customers acceptes: 1078
+customers served: 1078
+turnaways: 0
+average queue size: 0.01
+sum_line: 90
+served: 1078
+average wait time: 0.08 minutes
+Customers per hour: 4.00
+
+customers acceptes: 1567
+customers served: 1567
+turnaways: 0
+average queue size: 0.02
+sum_line: 135
+served: 1567
+average wait time: 0.09 minutes
+Customers per hour: 5.00
+
+customers acceptes: 2174
+customers served: 2174
+turnaways: 0
+average queue size: 0.03
+sum_line: 201
+served: 2174
+average wait time: 0.09 minutes
+Customers per hour: 6.00
+
+customers acceptes: 2889
+customers served: 2889
+turnaways: 0
+average queue size: 0.05
+sum_line: 314
+served: 2889
+average wait time: 0.11 minutes
+Customers per hour: 7.00
+
+customers acceptes: 3713
+customers served: 3713
+turnaways: 0
+average queue size: 0.08
+sum_line: 470
+served: 3713
+average wait time: 0.13 minutes
+Customers per hour: 8.00
+
+customers acceptes: 4603
+customers served: 4603
+turnaways: 0
+average queue size: 0.11
+sum_line: 645
+served: 4603
+average wait time: 0.14 minutes
+Customers per hour: 9.00
+
+customers acceptes: 5594
+customers served: 5594
+turnaways: 0
+average queue size: 0.14
+sum_line: 855
+served: 5594
+average wait time: 0.15 minutes
+Customers per hour: 10.00
+
+customers acceptes: 6705
+customers served: 6705
+turnaways: 0
+average queue size: 0.18
+sum_line: 1106
+served: 6705
+average wait time: 0.16 minutes
+Customers per hour: 11.00
+
+customers acceptes: 7882
+customers served: 7882
+turnaways: 0
+average queue size: 0.22
+sum_line: 1348
+served: 7882
+average wait time: 0.17 minutes
+Customers per hour: 12.00
+
+customers acceptes: 9186
+customers served: 9186
+turnaways: 0
+average queue size: 0.27
+sum_line: 1638
+served: 9186
+average wait time: 0.18 minutes
+Customers per hour: 13.00
+
+customers acceptes: 10600
+customers served: 10600
+turnaways: 0
+average queue size: 0.34
+sum_line: 2047
+served: 10600
+average wait time: 0.19 minutes
+Customers per hour: 14.00
+
+customers acceptes: 12092
+customers served: 12092
+turnaways: 0
+average queue size: 0.42
+sum_line: 2505
+served: 12092
+average wait time: 0.21 minutes
+Customers per hour: 15.00
+
+customers acceptes: 13725
+customers served: 13725
+turnaways: 0
+average queue size: 0.51
+sum_line: 3054
+served: 13725
+average wait time: 0.22 minutes
+Customers per hour: 16.00
+
+customers acceptes: 15445
+customers served: 15445
+turnaways: 0
+average queue size: 0.60
+sum_line: 3622
+served: 15445
+average wait time: 0.23 minutes
+Customers per hour: 17.00
+
+customers acceptes: 17271
+customers served: 17271
+turnaways: 0
+average queue size: 0.71
+sum_line: 4252
+served: 17271
+average wait time: 0.25 minutes
+Customers per hour: 18.00
+
+customers acceptes: 19183
+customers served: 19183
+turnaways: 0
+average queue size: 0.82
+sum_line: 4917
+served: 19183
+average wait time: 0.26 minutes
+Customers per hour: 19.00
+
+customers acceptes: 21189
+customers served: 21189
+turnaways: 0
+average queue size: 0.94
+sum_line: 5645
+served: 21189
+average wait time: 0.27 minutes
+Customers per hour: 20.00
+
+customers acceptes: 23281
+customers served: 23281
+turnaways: 0
+average queue size: 1.07
+sum_line: 6427
+served: 23281
+average wait time: 0.28 minutes
+Customers per hour: 21.00
+
+customers acceptes: 25469
+customers served: 25469
+turnaways: 0
+average queue size: 1.21
+sum_line: 7272
+served: 25469
+average wait time: 0.29 minutes
+Customers per hour: 22.00
+
+customers acceptes: 27779
+customers served: 27778
+turnaways: 0
+average queue size: 1.37
+sum_line: 8215
+served: 27778
+average wait time: 0.30 minutes
+Customers per hour: 23.00
+
+customers acceptes: 30135
+customers served: 30134
+turnaways: 0
+average queue size: 1.53
+sum_line: 9167
+served: 30134
+average wait time: 0.30 minutes
+Customers per hour: 24.00
+
+customers acceptes: 32648
+customers served: 32647
+turnaways: 0
+average queue size: 1.72
+sum_line: 10308
+served: 32647
+average wait time: 0.32 minutes
+Customers per hour: 25.00
+
+customers acceptes: 35270
+customers served: 35269
+turnaways: 0
+average queue size: 1.91
+sum_line: 11452
+served: 35269
+average wait time: 0.32 minutes
+Customers per hour: 26.00
+
+customers acceptes: 37980
+customers served: 37978
+turnaways: 0
+average queue size: 2.12
+sum_line: 12715
+served: 37978
+average wait time: 0.33 minutes
+Customers per hour: 27.00
+
+customers acceptes: 40819
+customers served: 40816
+turnaways: 0
+average queue size: 2.33
+sum_line: 14008
+served: 40816
+average wait time: 0.34 minutes
+Customers per hour: 28.00
+
+customers acceptes: 43758
+customers served: 43755
+turnaways: 0
+average queue size: 2.58
+sum_line: 15454
+served: 43755
+average wait time: 0.35 minutes
+Customers per hour: 29.00
+
+customers acceptes: 46780
+customers served: 46777
+turnaways: 0
+average queue size: 2.84
+sum_line: 17055
+served: 46777
+average wait time: 0.36 minutes
+Customers per hour: 30.00
+
+customers acceptes: 49863
+customers served: 49860
+turnaways: 0
+average queue size: 3.11
+sum_line: 18685
+served: 49860
+average wait time: 0.37 minutes
+Customers per hour: 31.00
+
+customers acceptes: 53080
+customers served: 53077
+turnaways: 0
+average queue size: 3.40
+sum_line: 20398
+served: 53077
+average wait time: 0.38 minutes
+Customers per hour: 32.00
+
+customers acceptes: 56388
+customers served: 56385
+turnaways: 0
+average queue size: 3.69
+sum_line: 22137
+served: 56385
+average wait time: 0.39 minutes
+Customers per hour: 33.00
+
+customers acceptes: 59793
+customers served: 59790
+turnaways: 0
+average queue size: 4.00
+sum_line: 23991
+served: 59790
+average wait time: 0.40 minutes
+Customers per hour: 34.00
+
+customers acceptes: 63238
+customers served: 63234
+turnaways: 0
+average queue size: 4.33
+sum_line: 25970
+served: 63234
+average wait time: 0.41 minutes
+Customers per hour: 35.00
+
+customers acceptes: 66838
+customers served: 66833
+turnaways: 0
+average queue size: 4.68
+sum_line: 28070
+served: 66833
+average wait time: 0.42 minutes
+Customers per hour: 36.00
+
+customers acceptes: 70527
+customers served: 70522
+turnaways: 0
+average queue size: 5.05
+sum_line: 30284
+served: 70522
+average wait time: 0.43 minutes
+Customers per hour: 37.00
+
+customers acceptes: 74321
+customers served: 74316
+turnaways: 0
+average queue size: 5.45
+sum_line: 32723
+served: 74316
+average wait time: 0.44 minutes
+Customers per hour: 38.00
+
+customers acceptes: 78194
+customers served: 78189
+turnaways: 0
+average queue size: 5.87
+sum_line: 35199
+served: 78189
+average wait time: 0.45 minutes
+Customers per hour: 39.00
+
+customers acceptes: 82169
+customers served: 82164
+turnaways: 0
+average queue size: 6.30
+sum_line: 37812
+served: 82164
+average wait time: 0.46 minutes
+Customers per hour: 40.00
+
+customers acceptes: 86269
+customers served: 86264
+turnaways: 0
+average queue size: 6.77
+sum_line: 40648
+served: 86264
+average wait time: 0.47 minutes
+Customers per hour: 41.00
+
+customers acceptes: 90533
+customers served: 90528
+turnaways: 0
+average queue size: 7.29
+sum_line: 43756
+served: 90528
+average wait time: 0.48 minutes
+Customers per hour: 42.00
+
+customers acceptes: 94811
+customers served: 94805
+turnaways: 0
+average queue size: 7.82
+sum_line: 46900
+served: 94805
+average wait time: 0.49 minutes
+Customers per hour: 43.00
+
+customers acceptes: 99185
+customers served: 99178
+turnaways: 0
+average queue size: 8.34
+sum_line: 50037
+served: 99178
+average wait time: 0.50 minutes
+Customers per hour: 44.00
+
+customers acceptes: 103667
+customers served: 103660
+turnaways: 0
+average queue size: 8.91
+sum_line: 53450
+served: 103660
+average wait time: 0.52 minutes
+Customers per hour: 45.00
+
+customers acceptes: 108289
+customers served: 108281
+turnaways: 0
+average queue size: 9.53
+sum_line: 57164
+served: 108281
+average wait time: 0.53 minutes
+Customers per hour: 46.00
+
+customers acceptes: 112976
+customers served: 112967
+turnaways: 0
+average queue size: 10.18
+sum_line: 61089
+served: 112967
+average wait time: 0.54 minutes
+Customers per hour: 47.00
+
+customers acceptes: 117790
+customers served: 117779
+turnaways: 0
+average queue size: 10.83
+sum_line: 64985
+served: 117779
+average wait time: 0.55 minutes
+Customers per hour: 48.00
+
+customers acceptes: 122741
+customers served: 122730
+turnaways: 0
+average queue size: 11.57
+sum_line: 69428
+served: 122730
+average wait time: 0.57 minutes
+Customers per hour: 49.00
+
+customers acceptes: 127710
+customers served: 127696
+turnaways: 0
+average queue size: 12.36
+sum_line: 74178
+served: 127696
+average wait time: 0.58 minutes
+Customers per hour: 50.00
+
+customers acceptes: 132793
+customers served: 132779
+turnaways: 0
+average queue size: 13.18
+sum_line: 79077
+served: 132779
+average wait time: 0.60 minutes
+Customers per hour: 51.00
+
+customers acceptes: 137992
+customers served: 137976
+turnaways: 0
+average queue size: 14.07
+sum_line: 84420
+served: 137976
+average wait time: 0.61 minutes
+Customers per hour: 52.00
+
+customers acceptes: 143294
+customers served: 143277
+turnaways: 0
+average queue size: 15.04
+sum_line: 90216
+served: 143277
+average wait time: 0.63 minutes
+Customers per hour: 53.00
+
+customers acceptes: 148705
+customers served: 148688
+turnaways: 0
+average queue size: 16.46
+sum_line: 98761
+served: 148688
+average wait time: 0.66 minutes
+Customers per hour: 54.00
+
+customers acceptes: 154187
+customers served: 154168
+turnaways: 0
+average queue size: 17.82
+sum_line: 106896
+served: 154168
+average wait time: 0.69 minutes
+Customers per hour: 55.00
+
+customers acceptes: 159806
+customers served: 159783
+turnaways: 0
+average queue size: 19.85
+sum_line: 119094
+served: 159783
+average wait time: 0.75 minutes
+Customers per hour: 56.00
+
+customers acceptes: 165522
+customers served: 165497
+turnaways: 0
+average queue size: 22.22
+sum_line: 133339
+served: 165497
+average wait time: 0.81 minutes
+Customers per hour: 57.00
+
+customers acceptes: 171343
+customers served: 171317
+turnaways: 0
+average queue size: 24.32
+sum_line: 145901
+served: 171317
+average wait time: 0.85 minutes
+Customers per hour: 58.00
+
+customers acceptes: 177254
+customers served: 177226
+turnaways: 0
+average queue size: 29.64
+sum_line: 177824
+served: 177226
+average wait time: 1.00 minutes
+Customers per hour: 59.00
+Fuck!!!
