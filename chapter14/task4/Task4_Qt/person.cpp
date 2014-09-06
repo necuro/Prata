@@ -56,4 +56,6 @@ return PokerPlayer::Draw();
 void BadDude::Show() const
 {
    Person::Show();
-   ///// How to print data without repeating it!!!
+   cout << "Ready in : " << Gdraw() << "Seconds" << endl;
+   cout << "Next card is: " <<Cdraw() << endl;
+}
