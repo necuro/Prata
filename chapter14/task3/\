@@ -1,0 +1,20 @@
+#ifndef QUEUETP_H_
+#define QUEUETP_H_
+
+template <typename T>
+class QueueTp
+{
+private:
+   enum{ Q_SIZE = 10 };
+public:
+   explicit QueueTp( int qs = Q_SIZE);
+   ~QueueTp();
+   bool isEmpty() const;
+   bool isFull() const;
+   int queueCount() const;
+   bool enqueue(   );
+   bool dequeue();
+
+
+};
+#endif
